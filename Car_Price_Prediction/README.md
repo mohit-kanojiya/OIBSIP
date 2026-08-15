@@ -2,7 +2,6 @@
 
 <div align="center">
 
-
 Predicting the selling price of used cars using Machine Learning regression techniques.
 
 <br>
@@ -427,11 +426,11 @@ Install all dependencies using:
 
 ### 1. Clone the Repository
 
-    git clone <YOUR-GITHUB-REPOSITORY-URL>
+    git clone https://github.com/mohit-kanojiya/OIBSIP.git
 
 ### 2. Navigate to the Project Directory
 
-    cd Car-Price-Prediction
+    cd OIBSIP/Car_Price_Prediction
 
 ### 3. Install Dependencies
 
@@ -443,11 +442,11 @@ Install all dependencies using:
 
 ### 5. Run the Project
 
-Open:
+Open the following notebook:
 
     Car_Price_Prediction.ipynb
 
-Run all cells sequentially to reproduce the complete data analysis, visualizations, model training, evaluation, and feature importance results.
+Run all cells sequentially to reproduce the complete data analysis, data preprocessing, visualizations, model training, model evaluation, and feature importance analysis.
 
 ---
 
